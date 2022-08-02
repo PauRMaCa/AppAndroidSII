@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppAndroidSII</string>
+    <string name="search">SEARCH</string>
+    <string name="inputID">Input the employee ID</string>
+    <string name="idText">ID</string>
+    <string name="nameText">Name</string>
+    <string name="ageText">Age</string>
+    <string name="salaryText">Salary</string>
+    <string name="annualSalaryText">Annual Salary</string>
+    <string name="noEmployee">-</string>
+    <string name="employeeURL">https://dummy.restapiexample.com/api/v1/employee</string>
+    <string name="idDoesNotExist">Error, the id does not exist.</string>
+    <string name="badResponse">Oops. Something went wrong, please try it again.</string>
+    <string name="searchingId">Searching employee by id: </string>
+</resources>
